@@ -1,0 +1,45 @@
+
+button
+{
+padding: 15px 25px;
+  color: red;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  opacity:0.7;
+background-color: #fefefe;
+  border: none;
+  border-radius: 15px;
+ }
+
+header
+{
+background-image:url(colors1.jpg)
+}
+h2
+{
+color:#f2f2f2;
+}
+h1
+{
+text-align:center;
+color:#C71585;
+}
+p
+{
+text-align:center;
+font-size:30px;
+}
+body
+{
+background-color:#e5e7e9;
+}
+div
+{
+height:250;
+}
+footer
+{
+background-color:black;
+color:#e5e7e9;
+}
